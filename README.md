@@ -1,9 +1,9 @@
 📄 Nepali Chatbot - PDF-based Q&A
 A Streamlit-based chatbot that allows users to upload Nepali PDF documents and ask questions in English or Nepali to get relevant answers.
 
-🔧 Setup Instructions
-1️⃣ Clone the Repository
-2️⃣ Create a Virtual Environment
+🔧 Setup Instructions<br>
+1️⃣ Clone the Repository<br>
+2️⃣ Create a Virtual Environment<br>
 3️⃣ Install Dependencies 
   streamlit
   google-generativeai
