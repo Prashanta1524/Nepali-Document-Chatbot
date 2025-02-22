@@ -1,4 +1,4 @@
-📄 Nepali Chatbot - PDF-based Q&A
+📄 Nepali Chatbot - PDF-based Q&A<br>
 A Streamlit-based chatbot that allows users to upload Nepali PDF documents and ask questions in English or Nepali to get relevant answers.
 
 🔧 Setup Instructions<br>
